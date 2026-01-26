@@ -1,8 +1,6 @@
-# # Avworoo
+# Avworoo
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-
-Aspiring AI Systems Engineer
+**`Aspiring AI Systems Engineer`**
 
 i'm Interested in building intelligent systems, understanding software at a low level, and creating tech that solves real problems.
 
