@@ -31,7 +31,8 @@ i'm Interested in building intelligent systems, understanding software at a low 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### stats
+---
+
 ### 📊 Stats
 
 ![avworoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=avworoo&show_icons=true&theme=gruvbox)
