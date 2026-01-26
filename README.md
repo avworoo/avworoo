@@ -1,14 +1,41 @@
-## Hi there 👋
+I’m Ogaga
 
-**avworoo/avworoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m interested in building intelligent systems, understanding how software works under the hood, and creating tech that actually solves real problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ghost
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##📚 Currently Learning
+
+Python
+
+Java
+
+C++
+
+Git
+
+GitHub
+
+
+##🚀 Projects
+🔹 GHOST AI
+
+Genius Hybrid Operating System Technetium
+An AI assistant focused on automation, system-level control, and intelligent interaction.
+
+🔹 WorldNexora
+
+A global platform connecting companies, freelancers, service providers, and manufacturers in one ecosystem.
+
+
+##🎯 Focus
+
+Strengthening core software engineering skills
+
+Building AI-driven and autonomous systems
+
+Developing scalable, real-world tech products
+
+
+## 📈 GitHub Journey
+I believe in consistent learning, clean code, and real-world problem solving.  
+This profile documents my growth as an engineer.
