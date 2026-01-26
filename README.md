@@ -1,41 +1,12 @@
-I’m Ogaga
+# Avworoo
 
-I’m interested in building intelligent systems, understanding how software works under the hood, and creating tech that actually solves real problems.
+Aspiring AI Systems Engineer
 
+i'm Interested in building intelligent systems, understanding software at a low level, and creating tech that solves real problems.
 
-##📚 Currently Learning
+## 🚀 Projects
+- **GHOST AI** — Intelligent assistant focused on automation and system-level control  
+- **WorldNexora** — Global platform connecting companies, freelancers, service providers, and manufacturers  
 
-Python
-
-Java
-
-C++
-
-Git
-
-GitHub
-
-
-##🚀 Projects
-🔹 GHOST AI
-
-Genius Hybrid Operating System Technetium
-An AI assistant focused on automation, system-level control, and intelligent interaction.
-
-🔹 WorldNexora
-
-A global platform connecting companies, freelancers, service providers, and manufacturers in one ecosystem.
-
-
-##🎯 Focus
-
-Strengthening core software engineering skills
-
-Building AI-driven and autonomous systems
-
-Developing scalable, real-world tech products
-
-
-## 📈 GitHub Journey
-I believe in consistent learning, clean code, and real-world problem solving.  
-This profile documents my growth as an engineer.
+## 🧠 Currently Learning
+Python · Java · C++ · Git · GitHub 
