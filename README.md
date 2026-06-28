@@ -8,7 +8,7 @@ i'm Interested in building intelligent systems, understanding software at a low 
 
 ### 🚀 Projects
 - **GHOST AI** — Intelligent assistant focused on automation and system-level control  
-- **WorldNexora** — Global platform connecting companies, freelancers, service providers, and manufacturers 
+- **WorldNexora** — A Global Business Eco-System  
 
    <p align="left">
       <a href="https://github.com/avworoo?tab=followers">
